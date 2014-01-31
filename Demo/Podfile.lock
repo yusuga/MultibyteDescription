@@ -1,0 +1,14 @@
+PODS:
+  - MultibyteDescription (0.1)
+
+DEPENDENCIES:
+  - MultibyteDescription (from `../`)
+
+EXTERNAL SOURCES:
+  MultibyteDescription:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MultibyteDescription: de535e62e3bca111c3abbc2e1be343d78a1b4e67
+
+COCOAPODS: 0.29.0
